@@ -1,1 +1,1 @@
-# Switch-Statement-with-2-options
+Switch Statement with 2 options
